@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbbjoern
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Java & Web Development
+- 🌱 I’m currently learning Python, Swift & Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my email: bjoern@hypertxt.org
 
